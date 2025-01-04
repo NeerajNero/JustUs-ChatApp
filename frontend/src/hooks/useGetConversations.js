@@ -7,7 +7,7 @@ const useGetConversations = () => {
 
   useEffect(() => {
     const getConversations = async() => {
-        setLoading(true)    
+        setLoading(true)     
         try{
             const response = await fetch('/api/users')
             const data = await response.json()
