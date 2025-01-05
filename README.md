@@ -125,8 +125,10 @@ mern-chat-app/
 ## Screenshots
 
 
+![chat](https://github.com/user-attachments/assets/460407e6-0781-4d8a-84ba-64e76599df72)
 
----
+![chatapp](https://github.com/user-attachments/assets/e5eabe74-9b07-4d5d-92d8-460fe05517d1)
+
 
 ## Future Improvements
 - Add group chat functionality.
