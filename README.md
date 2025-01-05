@@ -124,7 +124,7 @@ mern-chat-app/
 
 ## Screenshots
 
-Include relevant screenshots or GIFs here to showcase the app.
+
 
 ---
 
@@ -148,20 +148,9 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 For any questions or suggestions, feel free to contact me:
-- **Email**: your-email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: neerajnero9066@gmail.com
+- **GitHub**: [[yourusername](https://github.com/yourusername)](https://github.com/NeerajNero)
 
 ---
 
-## Adding to Your Resume
-
-### Summary:
-**Real-Time Chat Application**: Built a secure and scalable real-time chat app using the MERN stack. Implemented authentication with JWT, password hashing with bcrypt, and real-time communication using Socket.IO. Designed a responsive user interface with Tailwind CSS and DaisyUI, leveraging Context API for user management and Zustand for message and conversation state management.
-
-#### Key Contributions:
-- Engineered real-time communication for instant user messaging.
-- Developed a secure authentication system using JWT and bcrypt.
-- Created a modern, responsive UI using Tailwind CSS and DaisyUI.
-- Used Socket.IO to enable real-time, bi-directional communication.
-- Implemented efficient state management with Context API and Zustand.
 
